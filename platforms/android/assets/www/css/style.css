@@ -1,0 +1,122 @@
+body{
+	background-color:rgba(72,72,72,0.4);
+}
+
+
+
+#form-div {
+	background-color:rgba(72,72,72,0.4);
+	width: 100%;
+	margin: 0 auto;
+	height: 600px;
+	text-align: center;
+	margin-top: 3%;
+
+}
+
+#cabezera{
+
+	width: 100%;
+}
+
+
+#name{
+	width: 90%;
+	height: 20px;
+	float: left;
+	margin-bottom: 2%;
+	margin-top: 2%;
+	margin-left: 2%
+	
+}
+
+
+#email{
+
+	width: 90%;
+	height: 20px;
+	float: left;
+	margin-bottom: 2%;
+	margin-top: 2%;
+	margin-left: 2%
+	
+}
+
+textarea {
+	width: 90%;
+	height: 120px;
+	float: left;
+	margin-bottom: 2%;
+	margin-top: 2%;
+	margin-left: 2%
+}
+
+
+/*estilo boton enviar*/
+#button-blue{
+	font-family: 'Montserrat', Arial, Helvetica, sans-serif;
+	border: #fbfbfb solid 4px;
+	cursor:pointer;
+	background-color: #3498db;
+	color:white;
+	font-size:24px;
+	text-align: center;
+	width: 90%;
+	height: 100px;
+	
+}
+
+#button-blue:hover{
+	background-color: rgba(0,0,0,0);
+	color: #0493bd;
+}
+
+#tablaregistros{
+
+	width: 100%;
+
+}
+
+tr {
+
+	text-align: center;
+}
+
+#tabla1{
+	width: 100%;
+}
+
+#loading{
+
+	text-align: center;
+	margin-left: 50%;
+}
+
+table {
+	color: black;
+	background: #fff;
+	border: 1px solid #b4b4b4;
+	font: bold 17px helvetica;
+	padding: 0;
+	margin-top:10px; width: 100%;
+	-webkit-border-radius: 8px;
+}
+
+table tr td {
+	color: #666;
+	border-bottom: 1px solid #b4b4b4;
+	border-right: 1px solid #b4b4b4;
+	padding: 10px 10px 10px 10px;
+	background-image: -webkit-linear-gradient(top, #fdfdfd, #eee);
+}
+
+table tr td:last-child {
+	border-right: none;
+}
+
+table tr:last-child td {
+	border-bottom: none;
+}
+
+
+
