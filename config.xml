@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.x.clinicapp" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>ClinicApp</name>
+<widget id="com.gamera.emergencias" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Emergencias</name>
     <description>
         Emergencias app
     </description>
     <author email="leonardo0ramos@gmail.com" href="http://github.com/li0t">
-        Apache Cordova Team
+        li0t
     </author>
     <content src="index.html" />
     <plugin name="cordova-plugin-whitelist" version="1" />

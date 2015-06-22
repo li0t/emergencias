@@ -23,10 +23,10 @@
     },
     "installed_plugins": {
         "cordova-plugin-whitelist": {
-            "PACKAGE_NAME": "com.x.clinicapp"
+            "PACKAGE_NAME": "com.gamera.emergencias"
         },
         "org.apache.cordova.inappbrowser": {
-            "PACKAGE_NAME": "com.x.clinicapp"
+            "PACKAGE_NAME": "com.gamera.emergencias"
         }
     },
     "dependent_plugins": {}
