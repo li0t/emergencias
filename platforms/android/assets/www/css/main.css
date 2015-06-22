@@ -9,7 +9,7 @@
 
 .header {
   margin: 0 auto;
-  width: 80%;
+  width: 100%;
 }
 
 
@@ -23,20 +23,12 @@
   text-shadow:0 0 0;
 }
 
-.footer a {
-  font-family: Gill Sans, Verdana;
-  font-size: 11px;
-  line-height: 14px;
-  text-transform: uppercase;
-  letter-spacing: 2px;
-  font-weight: bold;
-  text-shadow:0 0 0;
-}
+
 
 
 .content {
   margin: 0 auto;
-  width: 40%;
+  width: 45%;
 }
 
 .content input {
@@ -51,7 +43,17 @@
 }
 .footer {
   margin: 0 auto;
-  width: 80%;
+  width: 100%;
+}
+
+.footer a {
+  font-family: Gill Sans, Verdana;
+  font-size: 11px;
+  line-height: 14px;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  font-weight: bold;
+  text-shadow:0 0 0;
 }
 
 ul li {

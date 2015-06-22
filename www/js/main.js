@@ -12,7 +12,7 @@ $(document).ready(function() {
   };
 
   function exit() {
-
+    alert(navigator.app)
     navigator.app.exitApp();
 
   }
