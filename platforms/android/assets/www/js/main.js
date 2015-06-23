@@ -11,41 +11,15 @@ $(document).ready(function() {
 
   };
 
-  function exit() {
-    alert(navigator.app)
-    navigator.app.exitApp();
-
-  }
-
   function call(who) {
 
     document.location.href = 'tel:' + numeros[who];
 
   }
 
-  function setOptional($this) {
-
-    $($this).click(function() {
-      // TODO: RETRIEVE CONTACTS
-    });
-
-  }
-
   $('input[name=fono]').click(function() {
 
     call(this.id);
-
-  });
-
-  $('#optional').click(function() {
-
-    /* TODO: set optional */
-
-  });
-
-  $('a[name=exit]').click(function(){
-
-    exit();
 
   });
 
